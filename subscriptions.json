@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sub_2yy15rp",
+    "planId": "plan_small_weekly",
+    "userName": "Pavan family",
+    "apartmentId": "apt1",
+    "address": "Flat 101",
+    "slot": "07:00-09:00",
+    "status": "active",
+    "startDate": "2025-11-27T08:59:41.058Z"
+  },
+  {
+    "id": "sub_20xzhew",
+    "planId": "plan_medium_weekly",
+    "userName": "Nandeesh family",
+    "apartmentId": "apt1",
+    "address": "Flat 101",
+    "slot": "07:00-09:00",
+    "status": "active",
+    "startDate": "2025-11-27T12:24:24.512Z"
+  },
+  {
+    "id": "sub_8zcprg9",
+    "userName": "Beti Pushpa ",
+    "address": "",
+    "slot": "07:00-09:00",
+    "status": "active",
+    "startDate": "2025-11-27T17:56:21.604Z"
+  }
+]

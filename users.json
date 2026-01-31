@@ -1,0 +1,22 @@
+[
+  {
+    "id": "u1",
+    "name": "Dileep",
+    "role": "customer"
+  },
+  {
+    "id": "u2",
+    "name": "Kalyani",
+    "role": "farmer"
+  },
+  {
+    "id": "u3",
+    "name": "Habeeba",
+    "role": "admin"
+  },
+  {
+    "id": "u4",
+    "name": "Subhankar",
+    "role": "admin"
+  }
+]

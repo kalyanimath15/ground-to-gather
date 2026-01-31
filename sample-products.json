@@ -1,0 +1,92 @@
+[
+  {
+    "id": "p1",
+    "name": "Organic Tomatoes",
+    "price": 45,
+    "farm": "Dileep Farms",
+    "image": "/images/products/tomato.jpg",
+    "harvest": "2025-11-20",
+    "batch": "BATCH-001",
+    "geo": "26.9,75.8"
+  },
+  {
+    "id": "p2",
+    "name": "Potato",
+    "price": 30,
+    "farm": "Kalyani Green Valley",
+    "image": "/images/products/potato.jpg",
+    "harvest": "2025-11-18",
+    "batch": "BATCH-002",
+    "geo": "12.97,77.59"
+  },
+  {
+    "id": "p3",
+    "name": "Brinjal",
+    "price": 180,
+    "farm": "Subhankar",
+    "image": "/images/products/brinjal.jpg",
+    "harvest": "2025-11-15",
+    "batch": "BATCH-003",
+    "geo": "12.3,76.64"
+  },
+  {
+    "id": "p4",
+    "name": "Carrot",
+    "price": 30,
+    "farm": "Pushpa Beti",
+    "image": "/images/products/carrot.jpeg",
+    "harvest": "2025-11-15",
+    "batch": "BATCH-004",
+    "geo": "12.3,76.64"
+  },
+  {
+    "id": "p5",
+    "name": "Cabbage",
+    "price": 130,
+    "farm": "Habeeba Orchards",
+    "image": "/images/products/cabbage.avif",
+    "harvest": "2025-11-15",
+    "batch": "BATCH-008",
+    "geo": "12.3,76.64"
+  },
+  {
+    "id": "p6",
+    "name": "Grapes",
+    "price": 200,
+    "farm": "Tanu Official",
+    "image": "/images/products/grapes.webp",
+    "harvest": "2025-11-18",
+    "batch": "BATCH-0059",
+    "geo": "12.3,76.64"
+  },
+  {
+    "id": "p7",
+    "name": "Spinach Bunch",
+    "price": 90,
+    "farm": "Chemistry Mam Farm",
+    "image": "/images/products/spinach.jpeg",
+    "harvest": "2025-11-26",
+    "batch": "Doesn't mean by batch because this vegitable coming from Chemistry humble mam's farm , You should buy",
+    "geo": "12.3,76.64"
+  },
+  {
+    "id": "p8",
+    "name": "Onion",
+    "price": 150,
+    "farm": "AI angry Mam Farm",
+    "image": "/images/products/onion.webp",
+    "harvest": "2025-11-15",
+    "batch": "BATCH-055 But dont Buy because AI mam very strict mam",
+    "geo": "This vegetable got rotten , no one bought because AI mam is strict on boys  "
+  },
+  {
+    "id": "p1",
+    "name": "Mooli",
+    "price": 45,
+    "farm": "Dileep Farms",
+    "image": "/images/products/tomato.jpg",
+    "harvest": "2025-11-20",
+    "batch": "BATCH-001",
+    "geo": "26.9,75.8"
+  }
+]
